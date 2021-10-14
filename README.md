@@ -1,2 +1,2 @@
-A/D - move
-SPACE - jump
+WASD - move
+Q/E - change angle
